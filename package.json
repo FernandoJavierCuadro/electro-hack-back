@@ -14,7 +14,8 @@
     "formidable": "^1.2.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.10.13",
-    "uuid": "^8.3.1"
+    "uuid": "^8.3.1",
+    "vercel": "^20.1.4"
   },
   "devDependencies": {},
   "scripts": {
