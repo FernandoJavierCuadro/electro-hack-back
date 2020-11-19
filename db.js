@@ -1,6 +1,6 @@
 module.exports = {
-  products: {
-    refrigerators: [
+  products: [
+    [
       {
         name:
           "RCA - 10 Cu Ft Top-Freezer Apartment-size Refrigerator - Stainless",
@@ -11,8 +11,8 @@ module.exports = {
         price: 276.75,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "rca",
+        featured: Math.random() <= 0.5,
+        brandName: "rca",
       },
       {
         name:
@@ -24,8 +24,8 @@ module.exports = {
         price: 349.02,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "rca",
+        featured: Math.random() <= 0.5,
+        brandName: "rca",
       },
       {
         name:
@@ -37,8 +37,8 @@ module.exports = {
         price: 799.0,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "frigidaire",
+        featured: Math.random() <= 0.5,
+        brandName: "frigidaire",
       },
       {
         name:
@@ -50,8 +50,8 @@ module.exports = {
         price: 1.495,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "frigidaire",
+        featured: Math.random() <= 0.5,
+        brandName: "frigidaire",
       },
       {
         name:
@@ -63,8 +63,8 @@ module.exports = {
         price: 1.942,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "frigidaire",
+        featured: Math.random() <= 0.5,
+        brandName: "frigidaire",
       },
       {
         name:
@@ -76,8 +76,8 @@ module.exports = {
         price: 354.57,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "rca",
+        featured: Math.random() <= 0.5,
+        brandName: "rca",
       },
       {
         name:
@@ -89,8 +89,8 @@ module.exports = {
         price: 1.306,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "rca",
+        featured: Math.random() <= 0.5,
+        brandName: "rca",
       },
       {
         name:
@@ -102,8 +102,8 @@ module.exports = {
         price: 2.548,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "frigidaire",
+        featured: Math.random() <= 0.5,
+        brandName: "frigidaire",
       },
       {
         name:
@@ -115,8 +115,8 @@ module.exports = {
         price: 2.548,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "frigidaire",
+        featured: Math.random() <= 0.5,
+        brandName: "frigidaire",
       },
       {
         name: "RCA 7.5 Cu. Ft. Retro Top Freezer Refrigerator RFR786, Black",
@@ -127,11 +127,11 @@ module.exports = {
         price: 2.548,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "frigidaire",
+        featured: Math.random() <= 0.5,
+        brandName: "frigidaire",
       },
     ],
-    tvs: [
+    [
       {
         name:
           "SAMSUNG 65 Class 4K Ultra HD (2160P) HDR Smart QLED TV QN65Q60TB",
@@ -142,8 +142,8 @@ module.exports = {
         price: 897.99,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "samsung",
+        featured: Math.random() <= 0.5,
+        brandName: "samsung",
       },
       {
         name:
@@ -155,8 +155,8 @@ module.exports = {
         price: 1.897,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "samsung",
+        featured: Math.random() <= 0.5,
+        brandName: "samsung",
       },
       {
         name: "RCA 24 Class 720P Roku Smart LED TV RTR2460-US",
@@ -167,8 +167,8 @@ module.exports = {
         price: 89.99,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "rca",
+        featured: Math.random() <= 0.5,
+        brandName: "rca",
       },
       {
         name:
@@ -180,8 +180,8 @@ module.exports = {
         price: 238.0,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "rca",
+        featured: Math.random() <= 0.5,
+        brandName: "rca",
       },
       {
         name:
@@ -193,8 +193,8 @@ module.exports = {
         price: 247.99,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "samsung",
+        featured: Math.random() <= 0.5,
+        brandName: "samsung",
       },
       {
         name:
@@ -206,8 +206,8 @@ module.exports = {
         price: 98.0,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "rca",
+        featured: Math.random() <= 0.5,
+        brandName: "rca",
       },
       {
         name: "SAMSUNG 32 Class HD (720P) Smart LED TV UN32M4500",
@@ -218,8 +218,8 @@ module.exports = {
         price: 98.0,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "samsung",
+        featured: Math.random() <= 0.5,
+        brandName: "samsung",
       },
       {
         name: "JVC 50 Class 4K UHD 2160p HDR Roku Smart LED TV LT-50MAW595",
@@ -230,8 +230,8 @@ module.exports = {
         price: 98.0,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "jvc",
+        featured: Math.random() <= 0.5,
+        brandName: "jvc",
       },
       {
         name: "JVC 32 Class HD (720p) Roku Smart LED TV (LT-32MAW205)",
@@ -242,8 +242,8 @@ module.exports = {
         price: 98.0,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "jvc",
+        featured: Math.random() <= 0.5,
+        brandName: "jvc",
       },
       {
         name: "JVC 43 Class 4K UHD 2160p LED Roku Smart TV LT-43MAW595",
@@ -254,11 +254,11 @@ module.exports = {
         price: 98.0,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "jvc",
+        featured: Math.random() <= 0.5,
+        brandName: "jvc",
       },
     ],
-    kitchen: [
+    [
       {
         name:
           "BLACK+DECKER Fruit and Vegetable Juice Extractor with Space Saving Design, Black, JE2400BD",
@@ -269,8 +269,8 @@ module.exports = {
         price: 39.92,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "black & decker",
+        featured: Math.random() <= 0.5,
+        brandName: "black & decker",
       },
       {
         name: "BLACK+DECKER Belgian Flip Waffle Maker, Black/Silver, WM1404S",
@@ -281,8 +281,8 @@ module.exports = {
         price: 34.99,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "black & decker",
+        featured: Math.random() <= 0.5,
+        brandName: "black & decker",
       },
       {
         name:
@@ -294,8 +294,8 @@ module.exports = {
         price: 99.0,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "frigidaire",
+        featured: Math.random() <= 0.5,
+        brandName: "frigidaire",
       },
       {
         name:
@@ -307,8 +307,8 @@ module.exports = {
         price: 99.0,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "black & decker",
+        featured: Math.random() <= 0.5,
+        brandName: "black & decker",
       },
       {
         name: "Hamilton Beach 7 Speed Silver Stand Mixer",
@@ -319,8 +319,8 @@ module.exports = {
         price: 99.99,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "hamilton beach",
+        featured: Math.random() <= 0.5,
+        brandName: "hamilton beach",
       },
       {
         name: "Hamilton Beach 2-Speed Motorized Slicer | Model# 59998",
@@ -331,8 +331,8 @@ module.exports = {
         price: 34.62,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "hamilton beach",
+        featured: Math.random() <= 0.5,
+        brandName: "hamilton beach",
       },
       {
         name:
@@ -344,8 +344,8 @@ module.exports = {
         price: 12.96,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "hamilton beach",
+        featured: Math.random() <= 0.5,
+        brandName: "hamilton beach",
       },
       {
         name:
@@ -357,8 +357,8 @@ module.exports = {
         price: 64.84,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "hamilton beach",
+        featured: Math.random() <= 0.5,
+        brandName: "hamilton beach",
       },
       {
         name: "Hamilton Beach 1.1 Cu. Ft. 1000W Stainless Steel Microwave",
@@ -369,8 +369,8 @@ module.exports = {
         price: 69.88,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "hamilton beach",
+        featured: Math.random() <= 0.5,
+        brandName: "hamilton beach",
       },
       {
         name:
@@ -382,12 +382,12 @@ module.exports = {
         price: 19.96,
         category: "",
         stock: Math.floor(Math.random() * 20 + 1),
-        featured: false,
-        brand: "hamilton beach",
+        featured: Math.random() <= 0.5,
+        brandName: "hamilton beach",
       },
     ],
-  },
-  brands: [
+  ],
+  brandNames: [
     {
       name: "rca",
       logo: "https://rca.imgix.net/1556287841-rca-logo-official-square.png",
@@ -413,6 +413,30 @@ module.exports = {
     {
       name: "hamilton beach",
       logo: "https://cdn.worldvectorlogo.com/logos/hamilton-beach-2.svg",
+    },
+  ],
+  users: [
+    {
+      name: "user",
+      lastname: "user",
+      email: "user@user.com",
+      address: "user",
+      telephone: "1234",
+      password: "user",
+      admin: false,
+      orderList: [],
+      tokens: [],
+    },
+    {
+      name: "admin",
+      lastname: "admin",
+      email: "admin@admin.com",
+      address: "admin",
+      telephone: "1234",
+      password: "admin",
+      admin: true,
+      orderList: [],
+      tokens: [],
     },
   ],
 };
