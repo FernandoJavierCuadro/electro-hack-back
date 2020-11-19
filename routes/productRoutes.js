@@ -1,6 +1,7 @@
 const jwt = require("express-jwt");
 const {
   getProducts,
+  getFeaturedProducts,
   getProductsByName,
   getProductsByCategory,
   createProduct,
@@ -10,6 +11,8 @@ const {
 
 function productRoutes(app) {
   app.get("/api/v1/products", getProducts);
+
+  app.get("/api/v1/products/featured", getFeaturedProducts);
 
   app.get("/api/v1/products/search", getProductsByName);
 
