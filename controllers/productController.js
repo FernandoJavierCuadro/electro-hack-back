@@ -5,7 +5,7 @@ const fs = require("fs");
 
 module.exports = {
   getProducts: async (req, res) => {
-    const products = await Product.find().limit(30);
+    const products = await Product.find().limit(30).populate("brand");
     res.json(products);
   },
 
@@ -18,9 +18,7 @@ module.exports = {
 
   getProductsByCategory: async (req, res) => {
     const { category } = req.params;
-    const products = await Category.find({ name: category }).populate(
-      "productsList"
-    );
+    const products = await Category.find({ name: category }).populate({path: "productsList", populate: {path: "brand"}});
     res.json(products);
   },
 
