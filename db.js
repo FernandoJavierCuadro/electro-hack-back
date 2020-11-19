@@ -375,7 +375,7 @@ module.exports = {
     {
       name: "frigidaire",
       logo:
-        "https://www.frigidaire.com/Content/Images/nav-new/frigidaire-full-color-logo.svg",
+        "https://vectorlogoseek.com/frigidaire-professional-vector-logo-svg/",
     },
     {
       name: "samsung",
