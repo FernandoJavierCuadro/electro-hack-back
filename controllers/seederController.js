@@ -31,7 +31,7 @@ module.exports = {
       });
       for (let k = 0; k < db.products[j].length; k++) {
         const foundBrand = brandArr.find(
-          (brand) => brand.name === db.products[j].brandName
+          (brand) => brand.name === db.products[j][k].brandName
         );
 
         const product = new Product({
