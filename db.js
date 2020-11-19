@@ -259,7 +259,7 @@ module.exports = {
         brandName: "black & decker",
       },
       {
-        name: "BLACK+DECKER Belgian Flip Waffle Maker Black/Silver",
+        name: "BLACK+DECKER Belgian Flip Waffle Maker Black and Silver",
         description:
           "Get the job done in less time with this BLACK DECKER Belgian Flip Waffle Maker (WM1404S). It makes a welcome addition to your kitchen. It features a sleek design with a black and silver color to complement your decor. This non-stick waffle maker produces thick, fluffy treats that soak up syrup and hold all your favorite toppings. With just a flip of the handle, the rotate-and-cook system makes nicely formed results. The plates are easy to clean and they're handy for making a variety of foods. Use this BLACK DECKER waffle maker to try out hash browns, grilled sandwiches, brownies, cinnamon rolls and more. Plus, the ready indicator lights show when the unit is plugged in and when everything cooked just right. It makes a thoughtful gift idea for a birthday, holiday or any other occasion.he BLACK+DECKER 400-Watt Juice Extractor makes it easy to turn all your favorite fruits and vegetables into delicious, pulp-free juice. The powerful 400-watt motor quickly works through produce, separating fresh juice from the pulp, which is collected in a separate container. With intuitive controls and dishwasher-safe parts, it?s the fast and easy way to enjoy fresh, flavorful juice!",
         image:
