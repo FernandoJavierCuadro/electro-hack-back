@@ -5,7 +5,9 @@ const fs = require("fs");
 
 module.exports = {
   getProducts: async (req, res) => {
-    const products = await Product.find({ featured: true })
+    const products = await Product.find({ featured: true }, null, {
+      sort: { username: 1 },
+    })
       .limit(30)
       .populate("brand");
     res.json(products);
