@@ -9,7 +9,7 @@ module.exports = (mongoose, Schema) => {
     category: { type: Schema.Types.ObjectId, ref: "Category" },
     stock: { type: Number, required: true },
     featured: { type: Boolean, required: true },
-    brand: { type: Schema.Types.ObjectId, ref: "Brand" },
+    brand: { type: Schema.Types.ObjectId, ref: "Brand", required: false },
   });
 
   const Product = mongoose.model("Product", ProductSchema);

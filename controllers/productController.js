@@ -18,7 +18,10 @@ module.exports = {
 
   getProductsByCategory: async (req, res) => {
     const { category } = req.params;
-    const products = await Category.find({ name: category }).populate({path: "productsList", populate: {path: "brand"}});
+    const products = await Category.find({ name: category }).populate({
+      path: "productsList",
+      populate: { path: "brand" },
+    });
     res.json(products);
   },
 
@@ -38,7 +41,6 @@ module.exports = {
           product._id
         }.${files.imageFile.type.replace("image/", "")}`;
         await product.save();
-        console.log(product);
         let img = fs.readFileSync(files.imageFile.path);
         let data = {
           Bucket: "carlitosbucket",
