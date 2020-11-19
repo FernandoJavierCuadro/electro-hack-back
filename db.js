@@ -375,7 +375,7 @@ module.exports = {
     {
       name: "frigidaire",
       logo:
-        "https://vectorlogoseek.com/frigidaire-professional-vector-logo-svg/",
+        "https://findvectorlogo.com/wp-content/uploads/2018/06/frigidaire-vector-logo.png",
     },
     {
       name: "samsung",
@@ -392,7 +392,8 @@ module.exports = {
     },
     {
       name: "hamilton beach",
-      logo: "https://cdn.worldvectorlogo.com/logos/hamilton-beach-2.svg",
+      logo:
+        "https://seeklogo.com/images/H/Hamilton_Beach-logo-D9E951687E-seeklogo.com.png",
     },
   ],
   users: [
