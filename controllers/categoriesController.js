@@ -1,4 +1,5 @@
 const { Category, User } = require("../models");
+const formidable = require("formidable");
 
 module.exports = {
   index: async (req, res) => {
@@ -20,7 +21,6 @@ module.exports = {
 
       const category = await new Category({
         name: req.body.name,
-        banner: [],
       });
       form.parse(req, async (err, fields, files) => {
         if (err) {
@@ -29,7 +29,8 @@ module.exports = {
         }
         console.log(files, fields);
         let category = await new Category(fields);
-        if (files.image !== undefined) {
+
+        if (files.imageFile) {
           category.image = `https://carlitosbucket.s3-sa-east-1.amazonaws.com/${
             category._id
           }.${files.image.type.replace("image/", "")}`;
@@ -68,7 +69,7 @@ module.exports = {
         const category = await Category.findByIdAndUpdate(fields._id, fields, {
           new: true,
         });
-        if (files.image !== undefined) {
+        if (files.imageFile) {
           category.image = `https://carlitosbucket.s3-sa-east-1.amazonaws.com/${
             category._id
           }.${files.imageFile.type.replace("image/", "")}`;
