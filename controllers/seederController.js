@@ -12,7 +12,7 @@ module.exports = {
         name: db.brandNames[i].name,
         logo: db.brandNames[i].logo,
       });
-      brand.save();
+      await brand.save();
       brandArr.push(brand);
     }
 
@@ -36,10 +36,10 @@ module.exports = {
           category: category._id,
           brand: foundBrand,
         });
-        product.save();
+        await product.save();
         category.productsList.push(product);
       }
-      category.save();
+      await category.save();
     }
 
     for (let l = 0; l < db.users.length; l++) {
@@ -54,7 +54,7 @@ module.exports = {
         orderList: db.users[l].orderList,
         tokens: db.users[l].tokens,
       });
-      user.save();
+      await user.save();
     }
     res.json("new database created");
   },
