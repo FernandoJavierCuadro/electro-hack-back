@@ -2,7 +2,7 @@ module.exports = {
   products: [
     [
       {
-        name: "RCA Top-Freezer Stainless",
+        name: "Top-Freezer Stainless",
         description:
           "This RCA 10 cu. ft. top freezer refrigerator has the storage options you're looking for, if you simply want a little extra fridge space in your home or office. Door bins conveniently keep beverage cans and bottles stored on the door, and glass shelves and a crisper in the fresh food section makes this refrigerator easy to organize.",
         image:
@@ -14,7 +14,7 @@ module.exports = {
         brandName: "rca",
       },
       {
-        name: "RCA Top-Freezer Blue",
+        name: "Top-Freezer Blue",
         description:
           "This RCA 10 cu. ft. top freezer refrigerator has the storage options you're looking for, if you simply want a little extra fridge space in your home or office. Door bins conveniently keep beverage cans and bottles stored on the door, and glass shelves and a crisper in the fresh food section makes this refrigerator easy to organize.RCA - 10 Cu Ft Top-Freezer Apartment-size Refrigerator - Retro",
         image:
@@ -26,7 +26,7 @@ module.exports = {
         brandName: "rca",
       },
       {
-        name: "Frigidaire Freestanding Top Freezer Black",
+        name: "Freestanding Top Freezer Black",
         description:
           "30 Inch Freestanding Top Freezer Refrigerator with 18 cu. ft. Total Capacity, 2 Wire Shelves, 3.9 cu. ft. Freezer Capacity, Field Reversible Doors, Right Hinge, Crisper Drawer, Automatic Defrost, ADA Compliant, in BlackFrigidaire FFTR1814TB Refrigerator/Freezer - 18 ft�� - Auto-defrost - Reversible - 14.10 ft�� Net Refrigerator Capacity - 3.90 ft�� Net Freezer Capacity - 120 V AC - 720 W - 404 kWh per Year - Black, Clear - Textured - Plastic Handle - Freestanding",
         image:
@@ -38,7 +38,7 @@ module.exports = {
         brandName: "frigidaire",
       },
       {
-        name: "Frigidaire Freestanding Side by Side Black Stainless Steel",
+        name: "Freestanding Side by Side Black Stainless Steel",
         description:
           "Spacious 22 cu. ft. for all your food storage needs Refrigerator space has 14.1 cu. ft., with 7.9 cu. ft. of freezer capacity LED lights brightly illuminate the internal cavity of the fridge PureSource 3 ice and water filtration system provides fresh, great tasting water and ice Keep fruits and vegetable fresh in the Store-More humidity-controlled crisper bins CSA approved",
         image:
@@ -50,7 +50,7 @@ module.exports = {
         brandName: "frigidaire",
       },
       {
-        name: "Frigidaire Side By Side Refrigerator",
+        name: "Side By Side Refrigerator",
         description:
           "With 25.5 cu. ft. total capacity, you'll have plenty of space to store all your refrigerated and frozen goods Interior lighting features LED bulbs to illuminate refrigerator contents with clear, bright light Includes an ice maker and water dispenser so you'll always have quick access to refreshments Includes PureSource® 3 Ice & Water Filtration to keep your ice and water clean and refreshing Includes a 1-year limited manufacturer warranty for parts and labor",
         image:
@@ -62,7 +62,7 @@ module.exports = {
         brandName: "frigidaire",
       },
       {
-        name: "RCA Side by Side 2 Door Fridge Stainless",
+        name: "Side by Side 2 Door Fridge Stainless",
         description:
           "The 5.5 cu ft RCA Side-by-Side 2-Door Refrigerator/Freezer, Stainless Steel, makes it easy to keep your food fresh and cold. It has a fridge on the left side with 3.3 cu ft of space, which is ideal for holding food and drinks. This RCA refrigerator/freezer's 2.2 cu ft ice-cold section is suitable for more long-term storage. The stainless steel exterior finish provides a modern look and makes it easier to clean. Its shelves are adjustable and removable so you can alter the inner space as you need. A set of three clear lock bins allow you to separate food by category for easy retrieval. This refrigerator's full-range temperature adjustments give you the control you need to set up for different foods. A light inside the refrigerator lets you see food when you go down for a midnight snack.Refrigerator (right side) provides 3.3-cu ftFreezer (left side) provides 2.2-cu ftFull-range temperature controlRefrigerator light and integrated door handles3 removable/adjustable glass refrigerator shelves3 adjustable clear-lock refrigerator door binsSide-by-side refrigerator freezer has a clear-lock crisper drawer2 fixed white plus bottom freezer storage shelvesRCA refrigerator freezer is suitable for housing additional produce, meats and beverages",
         image:
@@ -74,8 +74,7 @@ module.exports = {
         brandName: "rca",
       },
       {
-        name:
-          "Frigidaire Refrigerator/freezer top-freezer freestanding stainless steel",
+        name: "Refrigerator/freezer top-freezer freestanding stainless steel",
         description:
           "Store-More Humidity-Controlled Crisper Drawers Keep your fruits and vegetables fresh in Frigidaire's humidity-controlled crisper drawers. Store-More Gallon Door Shelf Door storage gives you room for larger items like a gallon of milk. SpillSafe shelves Designed to keep spills contained, making cleanup a breeze. Bright LED lighting Find food faster in your refrigerator and freezer with bright LED lighting. Ice maker A built-in ice maker automatically makes and replenishes ice cubes, so you always have ice on hand. Full-width wire freezer shelf Gives you a way to organize items in your freezer better so you can find food quickly. Reversible door Door can be installed to open left or right based on your needs. Clear dairy bin Keep foods like butter, cheese and yogurt organized.",
         image:
@@ -87,7 +86,7 @@ module.exports = {
         brandName: "rca",
       },
       {
-        name: "Frigidaire Side By Side Refrigerator",
+        name: "Side By Side Refrigerator",
         description:
           "With 22.2 cu. ft. total capacity, you'll have plenty of space to store all your refrigerated and frozen goods Interior lighting features LED bulbs to illuminate refrigerator contents with clear, bright light Includes an ice maker and water dispenser, so you'll always have easy access to refreshment Includes PureSource Ultra II water filters to keep your ice and water fresh, as well as PureAir Ultra II air filters for fresher, cleaner air Includes a 1-year limited manufacturer warranty for parts and labor",
         image:
@@ -99,7 +98,7 @@ module.exports = {
         brandName: "frigidaire",
       },
       {
-        name: "Frigidaire Side By Side Refrigerator",
+        name: "Side By Side Refrigerator",
         description:
           "With 22.2 cu. ft. total capacity, you'll have plenty of space to store all your refrigerated and frozen goods Interior lighting features LED bulbs to illuminate refrigerator contents with clear, bright light Includes an ice maker and water dispenser, so you'll always have easy access to refreshment Includes PureSource Ultra II water filters to keep your ice and water fresh, as well as PureAir Ultra II air filters for fresher, cleaner air Includes a 1-year limited manufacturer warranty for parts and labor",
         image:
@@ -111,7 +110,7 @@ module.exports = {
         brandName: "frigidaire",
       },
       {
-        name: "RCA Top Freezer Refrigerator Black",
+        name: "Top Freezer Refrigerator Black",
         description:
           "Your Retro RCA 7.5 Cu. Ft. Top-Freezer Refrigerator with handles in chrome features and upfront temperature controls make it simple to regulate both the fresh food and freezer sections. Adjustable shelves provide flexibility to meet your food storage needs. Combines easy-to-use features with practical design to complement any kitchen.Easily accessible temperature controls make temperature management easy. Spill-proof glass shelves contain spills and simplify cleanup, preventing liquids from leaking onto shelves below. Storage bins in the door help to keep smaller items handy and organized. Vegetable and fruit crisper bin helps preserve the freshness of fruits and vegetables. Full-width, fixed wire freezer shelf and door bin pge capacity lets you stock up on all of your favorite foods. Full-width, fixed wire freezer shelf and door bin provide organized storage for frozen foods. Adjustable legs ensure your refrigerator is always level even when your floor is not. Bright incandescent lighting illuminates your food and freezer compartments so you can see and easily find just the right food item for that midnight craving.",
         image:
@@ -125,7 +124,7 @@ module.exports = {
     ],
     [
       {
-        name: "SAMSUNG 65 Class 4K Ultra HD HDR Smart QLED TV ",
+        name: "65 Class 4K Ultra HD HDR Smart QLED TV ",
         description:
           "Enter a world saturated with color and sharpened to refreshing clarity, all of it made possible through the power of Quantum Dot technology. An intuitive Smart TV interface learns what you like and suggests exciting new content. And if youâre into gaming, Game Enhancer automatically neutralizes annoyances like tearing and stuttering.",
         image:
@@ -137,7 +136,7 @@ module.exports = {
         brandName: "samsung",
       },
       {
-        name: "SAMSUNG 65 Class 4K UHD the Frame QLED Smart TV ",
+        name: "65 Class 4K UHD the Frame QLED Smart TV ",
         description:
           "Artwork, television, movies, and memories -The Frame TV showcases it all on a beautiful QLED screen. Every piece of content is displayed in stunning 4K resolution and accented by a customizable, stylish bezel that seamlessly compliments your home's decor.",
         image:
@@ -149,7 +148,7 @@ module.exports = {
         brandName: "samsung",
       },
       {
-        name: "RCA 24 Roku Smart LED TV",
+        name: "24 Roku Smart LED TV",
         description:
           "This 24 RCA Roku Smart TV delivers a user-friendly experience. The super-simple remote and dual-band wireless make it fast and easy to access your favorite content. This 24 720p 60Hz LED TV has three HDMI inputs for connecting your DVD, Blu Ray player or preferred video game console. Get content from your smartphone or tablet with the free mobile app. This RCA Roku LED TV features a sleek modern design with its quad-pedestal stand. It enhances any room in the house. Roku Search allows you to easily search across top streaming channels by title, actor or director and now includes voice search. With a true 16:9 aspect ratio for viewing your movies the way that the director intended. Catch your favorite broadcast shows in high definition where available. Mount the unit on your wall or set it on top of your entertainment center. RCA Roku TV puts your favorite broadcast TV programs, streaming channels, gaming console and other devices on an easy to access menu with a super simple remote control. The newly designed remote only has 17 buttons, no longer do you need to flip through inputs or complicated menus. Imagine how easy it will be to watch any device, channel or streaming channels RCA Roku TV is a new era of smart TV. In addition, easily search the top streaming channels like Netflix, Amazon Instant Video, Hulu Plus, YouTube, etc. by title, actor or director and find what you want to watch quickly.",
         image:
@@ -161,7 +160,7 @@ module.exports = {
         brandName: "rca",
       },
       {
-        name: "RCA 50 Class 4K Ultra HD HDR Roku Smart LED TV",
+        name: "50 Class 4K Ultra HD HDR Roku Smart LED TV",
         description:
           "Enjoying 4K Ultra HD just got easier. RCA Roku TV puts your favorite broadcast TV programs, streaming channels, gaming console, and other devices side-by-side in a simple, intuitive interface. Experience 4K content with the incredible clarity of Ultra HD resolution. The new 4K RCA ROKU TV allows seamless access to over 500,000 streaming channels including the 4K Spotlight Channel, the easiest way to find 4K content across popular streaming channels such as Netflix, Vudu, and YouTube. This 50 Smart TV delivers a user-friendly experience: the easy-to-use remote and dual-band wireless make it fast and easy to access your favorite content. Roku search allows you to easily search across top streaming channels by title, actor or directly and now includes voice search. This 50 2160p 60Hz LED HDTV has three HDMI inputs for connecting your game console, cable box or even HD antenna. Cast personal media directly to the TV from your smartphone or tablet using the free Roku mobile app for iOS and android. This RCA ROKU LED HDTV features a sleek modern design with its quad-pedestal stand and a true 16:9 aspect ratio for viewing your movies the way that the director intended. To top it off, HDR10 delivers a stunning High Dynamic Range picture.",
         image:
@@ -173,7 +172,7 @@ module.exports = {
         brandName: "rca",
       },
       {
-        name: "Samsung 40 Class FHD LED Smart TV",
+        name: "40 Class FHD LED Smart TV",
         description:
           "Enjoy a viewing experience that is twice the clarity of standard HD TVs with this SAMSUNG 40 Full HD 1080p Smart LED TV. Featuring PurColor for a more colorful viewing experience and Micro Dimming Pro for shadow detail and color, it can reveal a more true-to-life picture with enhanced contrast.",
         image:
@@ -185,7 +184,7 @@ module.exports = {
         brandName: "samsung",
       },
       {
-        name: "RCA Home and Travel 24 HD TV With AC/DC Car Charger Black",
+        name: "Home and Travel 24 HD TV With AC/DC Car Charger Black",
         description:
           "Take the show on the road with this portable 24-inch HD television from RCA. With an included remote and AC/DC car charger, this little TV is ready to hit the road. Whether you want an extra screen for the guest room or a rainy-day activity on the next RV trip, this small television is the perfect size to meet your needs. Enjoy all of your content in 720p high-definition, made even more vibrant and bright through the LED display. Finally, multiple HDMI inputs allow you to plug in your movie players and gaming systems.",
         image:
@@ -197,7 +196,7 @@ module.exports = {
         brandName: "rca",
       },
       {
-        name: "SAMSUNG 32 HD Smart LED TV",
+        name: "32 HD Smart LED TV",
         description:
           "Improve your home viewing experience with the SAMSUNG 32 Class HD 720P Smart LED TV (UN32M4500). It features built-in Wi-Fi, so you can connect to the web and many streaming options. It also has an Ethernet port for a wired connection and HDMI ports for adding gaming consoles and other equipment. This Full HD Smart LED TV displays a high quality picture with Ultra Clean View, PurColor and Micro Dimming Pro technologies. Use mirroring to watch the same show on the TV and on your phone at the same time.",
         image:
@@ -209,7 +208,7 @@ module.exports = {
         brandName: "samsung",
       },
       {
-        name: "JVC 50 4K UHD HDR Roku Smart LED TV",
+        name: "50 4K UHD HDR Roku Smart LED TV",
         description:
           "JVC 50 Class 4K UHD 2160p Roku Smart TV LT-50MAW595 is more than a smart TV - it's a better TV. Start streaming your favorite shows, access your cable box or HD antenna, even fire up your gaming console - all from your home screen. Bring home the JVC 50 Class 4K UHD 2160p Roku Smart TV LT-50MAW595 and treat yourself to a better viewing experience.",
         image:
@@ -221,7 +220,7 @@ module.exports = {
         brandName: "jvc",
       },
       {
-        name: "JVC 32 HD Roku Smart LED TV",
+        name: "32 HD Roku Smart LED TV",
         description:
           "Upgrade your home entertainment system with this The HD resolution JVC 32 Class HD (720p) Roku Smart TV (LT-32MAW205) is more than a smart TV - it's a better TV. All of your entertainment is in one place with access to over 500,000 movies, TV episodes, and more than 5,000 streaming channels. Start streaming your favorite shows, access your cable box or HD antenna, even fire up your gaming console - all from your home screen. With Featured Free on your home screen, you re one click away from hundreds of free movies, TV episodes, and live news from channels like The Roku Channel, ABC, CW and more. Easily search across top channels for results ranked by price. Use the free Roku mobile app for iOS or Android devices to search by voice, cast personal media or video, and control your TV.",
         image:
@@ -233,7 +232,7 @@ module.exports = {
         brandName: "jvc",
       },
       {
-        name: "JVC 43 4K UHD LED Roku Smart TV",
+        name: "43 4K UHD LED Roku Smart TV",
         description:
           "JVC 43 Class 4K (2160p) Roku Smart TV (LT-43MAW595) is more than a smart TV - it's a better TV. All of your entertainment is in one place with access to over 500,000 movies, TV episodes, and more than 5,000 streaming channels. Start streaming your favorite shows, access your cable box or HD antenna, even fire up your gaming console - all from your home screen. With Featured Free on your home screen, you're one click away from hundreds of free movies, TV episodes, and live news from channels like The Roku Channel, ABC, CW and more. Easily search across top channels for results ranked by price. Use the free Roku mobile app for iOS or Android devices to search by voice, cast personal media or video, and control your TV.JVC 43 Class 4K (2160p) Roku Smart TV (LT-43MAW595)",
         image:
@@ -247,7 +246,7 @@ module.exports = {
     ],
     [
       {
-        name: "BLACK+DECKER Fruit and Vegetable Juice Extractor Black",
+        name: "Fruit and Vegetable Juice Extractor Black",
         description:
           "The BLACK+DECKER 400-Watt Juice Extractor makes it easy to turn all your favorite fruits and vegetables into delicious, pulp-free juice. The powerful 400-watt motor quickly works through produce, separating fresh juice from the pulp, which is collected in a separate container. With intuitive controls and dishwasher-safe parts, it?s the fast and easy way to enjoy fresh, flavorful juice!",
         image:
@@ -259,7 +258,7 @@ module.exports = {
         brandName: "black & decker",
       },
       {
-        name: "BLACK+DECKER Belgian Flip Waffle Maker Black and Silver",
+        name: "Belgian Flip Waffle Maker Black and Silver",
         description:
           "Get the job done in less time with this BLACK DECKER Belgian Flip Waffle Maker (WM1404S). It makes a welcome addition to your kitchen. It features a sleek design with a black and silver color to complement your decor. This non-stick waffle maker produces thick, fluffy treats that soak up syrup and hold all your favorite toppings. With just a flip of the handle, the rotate-and-cook system makes nicely formed results. The plates are easy to clean and they're handy for making a variety of foods. Use this BLACK DECKER waffle maker to try out hash browns, grilled sandwiches, brownies, cinnamon rolls and more. Plus, the ready indicator lights show when the unit is plugged in and when everything cooked just right. It makes a thoughtful gift idea for a birthday, holiday or any other occasion.he BLACK+DECKER 400-Watt Juice Extractor makes it easy to turn all your favorite fruits and vegetables into delicious, pulp-free juice. The powerful 400-watt motor quickly works through produce, separating fresh juice from the pulp, which is collected in a separate container. With intuitive controls and dishwasher-safe parts, it?s the fast and easy way to enjoy fresh, flavorful juice!",
         image:
@@ -271,7 +270,7 @@ module.exports = {
         brandName: "black & decker",
       },
       {
-        name: "Frigidaire Countertop Ice Maker Stainless Steel",
+        name: "Countertop Ice Maker Stainless Steel",
         description:
           "Always have enough ice cubes for a cold beverage with this incredible appliance. Whether you’re entertaining guests during the holidays or need a way to cool down the kids, lemonade in those scorching summer months, the Frigidaire 26 pound ice maker will make every season that much easier. Boasting a 26 pound ice making capacity, it doesn’t skimp on style with a stainless steel finish that makes it looks great with any décor. It features a sleek look and a compact space-saving design that is just the right size for your kitchen. It has LED-backlit controls that make them a breeze to read. The Frigidaire 26 lb countertop icemaker in stainless steel allows users to have fresh ice in less than seven minutes. Built-in air outlet keeps it cool and churning out ice without overheating. Simply fill the reservoir with water and select the desired cube size. It is also available in two stylish color options to blend easily with your kitchen's decor.",
         image:
@@ -283,7 +282,7 @@ module.exports = {
         brandName: "frigidaire",
       },
       {
-        name: "BLACK+DECKER Electric Rice Cooker with Keep-Warm Function White",
+        name: "Electric Rice Cooker with Keep-Warm Function White",
         description:
           "Dinner is easier with the BLACK+DECKER 3-Cup Electric Rice Cooker. Cooking takes just 20-30 minutes, and then the unit?s automatic ?keep warm? function kicks in to keep the delicious, fluffy rice ready to serve long after cooking is complete. Cleanup is a cinch with this small rice cooker thanks to the dishwasher-safe, nonstick rice pot and tempered glass lid. This personal rice cooker is perfect for single servings or dinner for two with a 1 to 3-cup capacity. Plus, use it to prepare quinoa, risotto, sushi rice, soups, stews, and even oatmeal!",
         image:
@@ -295,7 +294,7 @@ module.exports = {
         brandName: "black & decker",
       },
       {
-        name: "Hamilton Beach 7 Speed Silver Stand Mixer",
+        name: "7 Speed Silver Stand Mixer",
         description:
           "Built for a variety of batters and mixes, the Hamilton Beach 7-Speed Stand Mixer can do everything from whipping delicate meringues to mixing sticky bread dough. Its powerful 300-watt motor can handle the thickest of ingredients, including those peanut butter chocolate chip cookies your family devours. The best part is, you never have to scrape the bowl or hand-mix at the end â?? the planetary mixing action rotates the beaters around the entire bowl, for even and complete hands-free mixing. Seven speeds let you go from a slow stir to a fast mix, with exact control at each one. Plus, a helpful guide at the mixerâ??s top lets you know which speed to use for various mixing methods. Nonslip feet keep the mixer still while in use, and the splatter shield guards against messy drips, drops and spills. Attachments include a flat beater, dough hook and whisk. All attachments, as well as the stainless steel 4-quart mixing bowl, are dishwasher safe for fast cleanup. Use the Hamilton Beach 7-Speed Stand Mixer to help create your next culinary creation.[Hamilton Beach 7-Speed Stand Mixer, Silver (63392):Powerful 300-watt motor lets you mix everything from thick batters to bread doughSame mixing action as KitchenAid stand mixers*Planetary mixing action gives complete bowl coverage3 attachments for mixing versatility â?? dough hook, whisk and flat beaterIncludes a splatter shield that guards against messy drips, drops, and spillsDough hook and flat beater are nonstick4-quart stainless steel bowl with handles7 speeds lets you go from a slow stir to a fast mix, with exact control at each oneTilt-up head makes adding ingredients easierHandle makes it easier to move and store the mixerMixing guide on top lets you know which speed to use for various mixing methods* KITCHENAID is the registered trademark of Whirlpool Properties Inc. Use of the KitchenAid trademark does not imply any affiliation with or endorsement by KitchenAid or Whirlpool Properties Inc.]",
         image:
@@ -307,7 +306,7 @@ module.exports = {
         brandName: "hamilton beach",
       },
       {
-        name: "Hamilton Beach 2-Speed Motorized Slicer",
+        name: "2-Speed Motorized Slicer",
         description:
           "Put a twist on your meal prep and make healthy cooking fun and easy with this Hamilton Beach 3-in-1 Electric Spiralizer. Add delicious ribbons and spirals of colorful fruits and vegetables to your dishes with this motorized slicer. It comes with a spiral cutter, ribbon cutter, and grater with 2 speeds of electric power to craft zucchini noodles, veggie salad, cucumber ribbons, curly fries, and so much more. It has a comfortable grip handle, a 5-foot cord, and it's extremely easy to clean. This Hamilton Beach Electric Spiralizer is a great way to incorporate fresh fruits and veggies into your lifestyle and swirl up some good eats and good times in the kitchen. Hamilton Beach 3-in-1 Electric Spiralizer Healthy cooking made fun and easy. Add ribbons and spirals of colorful vegetables to your meals with this easy to use motorized slicer. With two speeds and a comfortable grip handle, spiralizing is as simple as adding the food to the chamber and pressing a button. Whether you want to lighten up a pasta dish with zucchini noodles or give your potato gratin a gourmet look, the 3-in-1 Spiralizer makes slicing simple enough for everyday use. Key Features: ? 3 blades included: spiral cutter, ribbon cutter and grater ? Easy to use and clean ? Extra-long 5ft. cord ? 2 speed control ? Comfortable grip handle ? 175 Watts of power It?s Easy to Master the Spiralizer Step 1: Assemble the Spiralizer With the sharp side up, align the notches of the cutting disc and base. Twist the food chamber into place and attach the motor body to the cutter adapter. Step 2: Prepare Your Food Select foods that are at least 1? wide and cut them into 2 ½? long pieces with a flat edge on each side. Step 3: Spiralize Push food onto the spike in the center of the disc. Apply gentle pressure with the motor body and let the spiralizer do the rest. Small grips help keep the food in place for even and continuous cutting. Step 4: Enjoy Whether it?s a dish of zucchini noodles or a snack of sweet potato fries, adding spirals of healthy foods to your dishes is easy with the 3-in-1 Spiralizer. Electric Power for Faster Results Hand-crank spiralizers can be time consuming and cumbersome to use. With 175 watts of power, the 3-in-1 Spiralizer makes preparing a large batch of homemade potato chips or vegetable noodles simple and quick. The extra-long 5 ft. cord makes maneuvering around your workspace effortless. Three Slicing Options The 3-in-1 Spiralizer includes spiral, ribbon, and grater discs. Turn vegetables into continuous ribbons and strands with the ribbon and spiral discs. Use the grating disc to shred hard foods, like Parmesan cheese or nuts. Blades are easy to change between slicing and can be stored inside the base when not in use. Why Spiralize? Spiralizing fresh vegetables is a great way to incorporate more healthy ingredients into your family?s diet. Create zucchini noodles, vegetable salad, cucumber ribbons and more.",
         image:
@@ -319,7 +318,7 @@ module.exports = {
         brandName: "hamilton beach",
       },
       {
-        name: "Hamilton Beach 6-Speed Hand Mixer Black",
+        name: "6-Speed Hand Mixer Black",
         description:
           "Whip up an airy meringue or decadent cake with the Hamilton Beach 6-Speed Hand Mixer with Snap-On Case. It provides commercial and at-home chefs with a versatile appliance that distinguishes itself as a reliable go-to appliance for mixing, whisking and folding. This black hand mixer features a clear, snap-on storage case that is designed to hold both the beaters and the power cord, so there is never a reason to go looking for a missing beater. Having this compact amenity allows for this unit to be easily stored without taking up too much cabinet space. The Hamilton Beach hand mixer design includes a built-in bowl rest that makes it easier to set the mixer down when adding ingredients. It also showcases a large control dial to quickly access six mixing speeds. The Hamilton Beach 6-Speed Hand Mixer with Snap-On Case includes a burst function that can be used at any speed to give an additional boost of power.",
         image:
@@ -331,7 +330,7 @@ module.exports = {
         brandName: "hamilton beach",
       },
       {
-        name: "Hamilton Beach Stainless Steel Countertop Microwave Oven",
+        name: "Stainless Steel Countertop Microwave Oven",
         description:
           "Sharp design in stainless steel, this microwave oven fits your modern kitchen and offers a variety of menu choices to complete your cooking tastes and style. It has an output of 900 watts and includes 10 power levels. The LED display is simple to read, and the touch-pad makes it easy to control. This 900 watt microwave oven includes a lockout feature for child safety, as well as a timer and clock feature. It allows you to cook potatoes, popcorn, reheat frozen dinners, pizza or beverages with just one touch. It's designed to give you even heating for consistent results that you can feel good about feeding to your family.Hamilton Beach 0.9 cu.ft. Microwave Oven, Stainless Steel:0.9 cu ftStainless steel design900W power/10 power levelsTouch pad controlConvenience cooking controls6 auto cooking menusTime and weight defrostLED display, kitchen timerCooking complete reminderDoor with handleChild safety lockDimensions: 19.02 in W x 15.6 in D x 11.06 in H1 year limited warranty",
         image:
@@ -343,7 +342,7 @@ module.exports = {
         brandName: "hamilton beach",
       },
       {
-        name: "Hamilton Beach Stainless Steel Microwave",
+        name: "Stainless Steel Microwave",
         description:
           "Whip up a variety of meals and snacks fast and reheat many foods and beverages with ease using this powerful 1000 Watt Microwave Oven from Hamilton Beach. Designed with a variety of thoughtful yet practical features to make easy work out of everyday kitchen tasks, this stylish microwave boasts 6 quick set menu buttons, 10 adjustable power levels, a vivid LED display and more to add to the convenience and functionality of your kitchen. Measuring 1.1 cubic square feet, this Hamilton Beach 1000 Watt Microwave Oven features a modern stainless steel finish that is sure to complement your existing kitchen appliances and suit any decor. The microwave is a snap to clean. Even pesky fingerprints are no match for its easy-to-care-for super sleek finish. Just wipe, outside and inside as needed, and go. Handle everyday kitchen tasks with the utmost of ease using Hamilton Beach's 1000 Watt Stainless Steel Microwave Oven. No kitchen would be complete without it.",
         image:
@@ -355,7 +354,7 @@ module.exports = {
         brandName: "hamilton beach",
       },
       {
-        name: "Hamilton Beach 2 Slice Extra-Wide Slot Toaster Chrome",
+        name: "2 Slice Extra-Wide Slot Toaster Chrome",
         description:
           "Hamilton Beach 2 Slice Extra-Wide Slot Toaster Chrome | Model# 22794 With the Hamilton Beach 2 Slice Toaster, toasting bread is just the beginning. Bagel and Defrost settings, extra-wide slots and toast boost technology make it ideal for bagels, English muffins, thick slices of artisan bread, frozen waffles and more. Extra-wide slots make it ideal for bagels or slices of artisan bread. A special bagel setting lets you toast the cut side while warming the outside. Bring frozen waffles or pancakes to a warm, golden finish with the defrost button, which thaws then toasts the food. And for smaller items, like English muffins, a toast boost feature gives breads a high lift for easy removal.",
         image:
