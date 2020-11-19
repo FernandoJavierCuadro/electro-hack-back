@@ -1,5 +1,13 @@
+const faker = require("faker");
 const db = require("../db");
-const { mongoose, User, Category, Product, Brand } = require("../models");
+const {
+  mongoose,
+  User,
+  Category,
+  Product,
+  Brand,
+  Order,
+} = require("../models");
 
 module.exports = {
   seeder: async (req, res) => {
@@ -54,8 +62,19 @@ module.exports = {
         orderList: db.users[l].orderList,
         tokens: db.users[l].tokens,
       });
+
+      for (m = 0; m < 20; m++) {
+        const order = new Order({
+          buyer: user,
+          products: [],
+          state: "paid",
+          total: Math.floor(Math.random() * 20000 + 1),
+        });
+        await order.save();
+      }
       await user.save();
     }
+
     res.json("new database created");
   },
 };
